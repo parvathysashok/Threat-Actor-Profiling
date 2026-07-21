@@ -315,7 +315,7 @@ python threat_actor_profiling.py
 
 ## Author
 
-**Your Name**
+**Parvathy S Ashok**
 
 B.Tech Computer Science Engineering (Cyber Security)  
 Amrita Vishwa Vidyapeetham
